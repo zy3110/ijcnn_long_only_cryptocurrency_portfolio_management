@@ -4,7 +4,10 @@ arxiv link: https://arxiv.org/abs/2512.08124
 IEEE link:   https://ieeexplore.ieee.org/document/11228268
 
 cite as:
+
+
 Z. Yang, "Long-only cryptocurrency portfolio management by ranking the assets: a neural network approach," 2025 International Joint Conference on Neural Networks (IJCNN), Rome, Italy, 2025, pp. 1-8, doi: 10.1109/IJCNN64981.2025.11228268. keywords: {Neural networks;Machine learning;Cryptocurrency;Portfolios;cryptocurrency trading; portfolio management; machine learning; neural network},
+
 
 
 
